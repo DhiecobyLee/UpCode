@@ -1,0 +1,5 @@
+﻿enum TipoAnimal
+{
+    Cachorro,
+    Gato
+}
